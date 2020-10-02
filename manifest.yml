@@ -1,5 +1,5 @@
 applications:
-- disk_quota: 1024M
+- disk_quota: 512M
   name: demodra
   buildpack: sdk-for-nodejs
   command: node app.js
